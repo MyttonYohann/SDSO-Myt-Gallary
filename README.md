@@ -10,59 +10,59 @@ RIGHT CLICK > 'COPY IMAGE ADDRESS' to get the url
 **(Gen4) DPPt | HGSS**
 - Background
 	- Distortion World (Recreated)
-	- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/dpp_distortion_world.gif)		
+	- ![](https://raw.githubusercontent.com/MyttonYohann/SDSO-Myt-Gallary/main/Background/dpp_distortion_world.gif)		
 	- Whirls Island (Ported | Modified)
-	- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/hgss_whirls_island.gif)	
+	- ![](https://raw.githubusercontent.com/MyttonYohann/SDSO-Myt-Gallary/main/Background/hgss_whirls_island.gif)	
 
 **(Gen5) Black White**
 - Trainer
 	- BW1 Iris | Skyla
-	- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Animated%20Trainer/bw_iris_animated.gif)	 ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Animated%20Trainer/bw_skyla_animated.gif)	
+	- ![](https://raw.githubusercontent.com/MyttonYohann/SDSO-Myt-Gallary/main/Animated%20Trainer/bw_iris_animated.gif)	 ![](https://raw.githubusercontent.com/MyttonYohann/SDSO-Myt-Gallary/main/Animated%20Trainer/bw_skyla_animated.gif)	
 - Background
 	- Relic Castle (Recreated)
-	- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/bw_relic_castle.gif)
+	- ![](https://raw.githubusercontent.com/MyttonYohann/SDSO-Myt-Gallary/main/Background/bw_relic_castle.gif)
 	- Dragonspiral Tower (Ported + Modified)
-	- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/bw_dragonspiral_tower.gif)	
+	- ![](https://raw.githubusercontent.com/MyttonYohann/SDSO-Myt-Gallary/main/Background/bw_dragonspiral_tower.gif)	
 
 **(Gen6) ORAS**
 - Background
 	- Sootopolis (Ported + Modified)
-	- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/oras_sootopolis.gif)	
+	- ![](https://raw.githubusercontent.com/MyttonYohann/SDSO-Myt-Gallary/main/Background/oras_sootopolis.gif)	
 
 **(Gen7) Sun Moon**
 - Background
 	- Sky Pillar (Ported + Modified)
-	- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/usum_spear_pillar.gif)	
+	- ![](https://raw.githubusercontent.com/MyttonYohann/SDSO-Myt-Gallary/main/Background/usum_spear_pillar.gif)	
 
 **(Gen8) Sword Shield | Rescue Team DX**
 - Effects
 	- Protect (Inspired)
-	- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Effects/protect.gif)	
+	- ![](https://raw.githubusercontent.com/MyttonYohann/SDSO-Myt-Gallary/main/Effects/protect.gif)	
 - Background
 	- Wyndon (Ported + Modified)
-	- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/swsh_wyndon.gif)	
+	- ![](https://raw.githubusercontent.com/MyttonYohann/SDSO-Myt-Gallary/main/Background/swsh_wyndon.gif)	
 	- East Wyndon (Ported + Modified)
-	- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/swsh_wyndon_east.gif)	
+	- ![](https://raw.githubusercontent.com/MyttonYohann/SDSO-Myt-Gallary/main/Background/swsh_wyndon_east.gif)	
 	- Circhester (Ported + Modified)
-	- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/swsh_circhester.gif)			
+	- ![](https://raw.githubusercontent.com/MyttonYohann/SDSO-Myt-Gallary/main/Background/swsh_circhester.gif)			
 	- Motostoke (Ported + Modified)
-	- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/swsh_motostoke.gif)	
+	- ![](https://raw.githubusercontent.com/MyttonYohann/SDSO-Myt-Gallary/main/Background/swsh_motostoke.gif)	
 	- Turffield (Ported + Modified)
-	- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/swsh_turffield.gif)		
+	- ![](https://raw.githubusercontent.com/MyttonYohann/SDSO-Myt-Gallary/main/Background/swsh_turffield.gif)		
 	- Hulbury (Ported + Modified)
-	- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/swsh_hulbury.gif)	
-	- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/swsh_hulbury2.gif)	
+	- ![](https://raw.githubusercontent.com/MyttonYohann/SDSO-Myt-Gallary/main/Background/swsh_hulbury.gif)	
+	- ![](https://raw.githubusercontent.com/MyttonYohann/SDSO-Myt-Gallary/main/Background/swsh_hulbury2.gif)	
 	- Ballonlea (Ported)
-	- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/swsh_ballonlea.gif)		
+	- ![](https://raw.githubusercontent.com/MyttonYohann/SDSO-Myt-Gallary/main/Background/swsh_ballonlea.gif)		
 	- Wild Area: Desert (Ported)
-	- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/swsh_wa_desert.gif)	
+	- ![](https://raw.githubusercontent.com/MyttonYohann/SDSO-Myt-Gallary/main/Background/swsh_wa_desert.gif)	
 
 	- Frosty Forest (Ported)
-	- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/pmd1_frosty_forest.gif)	
+	- ![](https://raw.githubusercontent.com/MyttonYohann/SDSO-Myt-Gallary/main/Background/pmd1_frosty_forest.gif)	
 	- Stormy Sea (Ported + Modified)
-	- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/pmd1_stormy_sea.gif)	
+	- ![](https://raw.githubusercontent.com/MyttonYohann/SDSO-Myt-Gallary/main/Background/pmd1_stormy_sea.gif)	
 	- Mt Blaze (Ported)
-	- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/pmd1_mt_blaze.gif)	
+	- ![](https://raw.githubusercontent.com/MyttonYohann/SDSO-Myt-Gallary/main/Background/pmd1_mt_blaze.gif)	
 
 Credits:
 - [EZGIF](https://ezgif.com)
@@ -79,7 +79,7 @@ gif is the worst format ever made, doesnt store much colour, APNG and WEBP nay h
 **Legacy**
 - Background
 	- Hulbury Day Time
-	- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/cdba9915988e1e14dfc74ee69acc4466989181dd/Background/swsh_hulbury.gif)	
+	- ![](https://raw.githubusercontent.com/MyttonYohann/SDSO-Myt-Gallary/cdba9915988e1e14dfc74ee69acc4466989181dd/Background/swsh_hulbury.gif)	
 		
 		
 protip, Github saves EVERYTHING, if you're curious you can check commit history for ALL the older versions
@@ -87,11 +87,11 @@ protip, Github saves EVERYTHING, if you're curious you can check commit history 
 
 **-Testing-**
 - WEBP
-	- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Animated%20Trainer/bw_iris_animated.webp)
+	- ![](https://raw.githubusercontent.com/MyttonYohann/SDSO-Myt-Gallary/main/Animated%20Trainer/bw_iris_animated.webp)
 - APNG
-	- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Animated%20Trainer/bw_iris_apng.png )
+	- ![](https://raw.githubusercontent.com/MyttonYohann/SDSO-Myt-Gallary/main/Animated%20Trainer/bw_iris_apng.png )
 - Stormy Sea (WEBP)
-	- ![](https://raw.githubusercontent.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/main/Background/pmd1_stormy_sea.webp)	
+	- ![](https://raw.githubusercontent.com/MyttonYohann/SDSO-Myt-Gallary/main/Background/pmd1_stormy_sea.webp)	
 	
 
 export as image sequence > render as webm with krita > convert webm to webp, krita can render webp but it sucks https://www.webm.to/webp/
