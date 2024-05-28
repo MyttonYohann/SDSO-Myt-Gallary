@@ -3,7 +3,7 @@ MAIN STUFF IS IN [myt_showdown_ui_main](https://github.com/mammal-is-fleshy/Show
 
 Auto Replacer: [background_autoreplacer](https://github.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/blob/main/background_autoreplacer.css) functional but still a wip, for gen5 onwards
 
-Galery + Public Repo for my personal stuff, includes backgrounds, animated trainer sprites, effects and more
+Galery + Public Repo for my personal stuff, includes backgrounds, animated trainer sprites, effects and more (hopefully)
 
 RIGHT CLICK > 'COPY IMAGE ADDRESS' to get the url
 
@@ -74,17 +74,6 @@ Credits:
 - Blender
 
 
-gif is the worst format ever made, doesnt store much colour, APNG and WEBP nay have bigger filesize (gif does have the advantage of frame collapsing) but it should mean that the background could be render in 1980 or even 4k if i fancy since (at least in the case of APNG) its rendering all of the frames with no colour limit
-
-**Legacy**
-- Background
-	- Hulbury Day Time
-	- ![](https://raw.githubusercontent.com/MyttonYohann/SDSO-Myt-Gallary/cdba9915988e1e14dfc74ee69acc4466989181dd/Background/swsh_hulbury.gif)	
-		
-		
-protip, Github saves EVERYTHING, if you're curious you can check commit history for ALL the older versions
-
-
 **-Testing-**
 - WEBP
 	- ![](https://raw.githubusercontent.com/MyttonYohann/SDSO-Myt-Gallary/main/Animated%20Trainer/bw_iris_animated.webp)
@@ -92,6 +81,6 @@ protip, Github saves EVERYTHING, if you're curious you can check commit history 
 	- ![](https://raw.githubusercontent.com/MyttonYohann/SDSO-Myt-Gallary/main/Animated%20Trainer/bw_iris_apng.png )
 - Stormy Sea (WEBP)
 	- ![](https://raw.githubusercontent.com/MyttonYohann/SDSO-Myt-Gallary/main/Background/pmd1_stormy_sea.webp)	
-	
 
-export as image sequence > render as webm with krita > convert webm to webp, krita can render webp but it sucks https://www.webm.to/webp/
+
+export as image sequence > render as webm with krita > convert webm to webp, krita can render webp but it's bad https://www.webm.to/webp/
