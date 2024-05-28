@@ -1,0 +1,88 @@
+/* Pick and choose your own flavours */
+/* PLEASE DONT JUST COPY PASTE THE ENTIRE THING, JUST THE ONE YOU NEED!! Stylish is very modular!! you can stack stuff for quick access */
+
+
+/* ------------- */
+/* CUSTOM TRAINNER [YOURS]*/
+/* too lazy to do the right one, just change .leftbar to .rightbar and translate x to a positive value(keep the :after and :before though), you need like 5px in y in translate for some reason for the opponenet* /
+/* ------------- */
+.leftbar .trainersprite  {
+	position: relative;
+	translate: -200px 0px;	/* 200px 0px if rightbar */ 
+}
+
+.leftbar .trainersprite::after {
+	content: "";
+	position: absolute;
+	background:
+	url( /* LINK TO IMAGE OR GIF HERE */ )
+	no-repeat;
+	width: 80px;
+	height: 80px; 
+	top: 7px;	 /* image isnt automatically positioned */ 
+	left: -2px;	 /* you should touch these a bit */ 
+	transform:scale(0.85) scaleX(1); /* not guarateed to scaled perfectly  legacy code, scaleX(-1) to flip it, */ 
+	translate: -200px 0px;	/* -200px 5px if rightbar */ 
+}
+/* This is my own bit to be compatible with the rating line on main */
+.leftbar .trainersprite::before {
+	translate: -200px 0px;
+}
+
+/* ------------- */
+/* CUSTOM BACKGROUND */
+/* Unlike the trainer sprite, this is 1:1, make sure its 640x360 */
+/* ------------- */
+.backdrop:before {
+	content: "";
+	background:
+	url( /* LINK TO IMAGE OR GIF HERE */ )
+	no-repeat;
+	image-rendering: pixelated;	/* this is optional, remove if need be, i render my stuff on low res, no filter so i do kind of need this */
+	position: absolute;
+	width: 640px;	/* it's actually 700x500- */
+	height: 360px;	/* -but the panel in showdown is 640x360 (from .innerbattle) so i think mine is better */
+	top: 90px;	/* reverse of the original- */
+	left: 50px; /* -code on showdown */
+	transform:scale(1.05);	/* bodge for screen shaking effect like eq, slightly enlarge the image to workaround clipping */
+}
+
+/* ------------- */
+/* CUSTOM BACKGROUND (WEBP 1920x1080) */
+/* same as above, pick only one, this one has higher res, may take a while to load */
+/* ------------- */
+.backdrop:before {
+	content: "";
+	background:
+	url( /* LINK TO IMAGE OR GIF HERE */ )
+	no-repeat;
+	image-rendering: pixelated;	/* this is optional, remove if need be, i render my stuff on low res, no filter so i do kind of need this */
+	position: absolute;
+	width: 1920px;	/* it's actually 700x500- */
+	height: 1080px;	/* -but the panel in showdown is 640x360 (from .innerbattle) so i think mine is better */
+	top: -270px;	/* idk i put random number til it works*/
+	left: -590px; /* its aligned, dont care about the maths */
+	transform:scale(0.35);	/* bodge for screen shaking effect like eq, slightly enlarge the image to workaround clipping */
+}
+
+/* ------------- */
+/* CUSTOM EFFECTS */
+/* blah these have very odd resolution, just use inspect on chrome or whatever to find out :< */
+/* the effect's resolution on your side and opponenet's side are DIFFERENT, for some reason, DO NOT REMOVE THE !important*/
+/* ------------- */
+/* PROTECT */
+.turnstatus-protect {
+	height: 103px !important; 
+	width: 147px !important;
+	background: rgba(0,0,0, 0) /* RGB and Alpha, since i like my effects to completely be overidden i use 0 alpha, but you do you */
+	url( /* LINK TO IMAGE OR GIF HERE */ )
+	no-repeat; /* remove if you want and have a seamless or tiling image */
+	border: 0px solid #AA66AA;
+	display: none;
+	position: absolute; 
+	transform: scale(1.2) translate(0px, -20px); /* own preference remove it need be */
+}
+
+/* ------------- */
+/* Consult https://github.com/smogon/pokemon-showdown-client/blob/master/play.pokemonshowdown.com/style/battle.css for all variable names */
+/* ------------- */
