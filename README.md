@@ -1,7 +1,7 @@
 # ShowDown-ShowOff-myttondoingstuff
-MAIN STUFF IS IN [myt_showdown_ui_main](https://github.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/blob/main/myt_showdown_ui_main.css) AND [other_effects](https://github.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/blob/main/other_effects.css)
+MAIN STUFF IS IN [myt_showdown_ui_main](https://github.com/MyttonYohann/SDSO-Myt-Gallary/blob/main/myt_showdown_ui_main.css) AND [other_effects](https://github.com/MyttonYohann/SDSO-Myt-Gallary/blob/main/other_effects.css)
 
-Auto Replacer: [background_autoreplacer](https://github.com/mammal-is-fleshy/ShowdownShow-Off-MyttonCodingStuff/blob/main/background_autoreplacer.css) functional but still a wip, for gen5 onwards
+Auto Replacer: [background_autoreplacer](https://github.com/MyttonYohann/SDSO-Myt-Gallary/blob/main/background_autoreplacer.css) functional but still a wip, for gen5 onwards
 
 Galery + Public Repo for my personal stuff, includes backgrounds, animated trainer sprites, effects and more (hopefully)
 
