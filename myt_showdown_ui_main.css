@@ -250,6 +250,16 @@ abbr[title] {
 	top: -20px;
 }
 
+.leftbar .badges  {
+	filter: blur(0px);
+   	opacity: 1;
+	position: relative ;
+/*	image-rendering: pixelated; */
+	left: -210px;
+	top: -15px;
+}
+
+
 .rightbar .trainersprite {
 	filter: blur(0px);
 	opacity: 1;
@@ -273,6 +283,15 @@ abbr[title] {
 	right: -90px !important;
 	height: 95px !important;
 	width: 320px !important;
+}
+
+.rightbar .badges  {
+	filter: blur(0px);
+   	opacity: 1;
+	position: relative ;
+/*	image-rendering: pixelated; */
+	left: -120px;
+	top: 15px;
 }
 
 .leftbar .trainersprite::before {
